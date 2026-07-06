@@ -91,7 +91,7 @@ h1, h2, h3 {
 }
 
 #sobre {
-    background-color: var(--card-bg); /* Um tom levemente diferente para destacar */
+    
     padding: 4rem 0;
 }
 
